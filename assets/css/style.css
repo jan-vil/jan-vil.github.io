@@ -1268,6 +1268,22 @@ section {
   }
 }
 
+table, tr, th, td {
+  border: 2px solid;
+  border-color: black;
+  width: 100%;
+  text-align: center;
+  font-family:"Raleway", sans-serif
+
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;} 
+tr:hover {background-color: #34b7a7;}
+
+th, td {
+  width: 25%
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
