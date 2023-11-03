@@ -436,7 +436,7 @@ h6 {
   }
 }
 
-#hero h1 {
+#hero h1 { /*Aqui he canviat el color del text perquè no entri en conflicte amb el color de fons*/
   margin: 0;
   font-size: 48px;
   font-weight: 700;
@@ -444,7 +444,7 @@ h6 {
   color: #f5f5f5;
 }
 
-#hero h2 { /*Aqui he canviat el color del text perquè no entri en conflicte amb el color de fons*/
+#hero h2 { /*Aqui també he canviat el color del text perquè no entri en conflicte amb el color de fons*/
   color: #f5f5f5;
   margin: 10px 0 0 0;
   font-size: 22px;
